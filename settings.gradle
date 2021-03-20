@@ -1,0 +1,3 @@
+include ':app', ':lifecycle-plugin'
+rootProject.name = "ShowFrament"
+

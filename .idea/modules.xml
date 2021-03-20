@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShowFrament.iml" filepath="$PROJECT_DIR$/.idea/modules/ShowFrament.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShowFrament.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShowFrament.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifecycle-plugin/ShowFrament.lifecycle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/lifecycle-plugin/ShowFrament.lifecycle-plugin.iml" />
+    </modules>
+  </component>
+</project>
